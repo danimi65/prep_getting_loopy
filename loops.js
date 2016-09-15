@@ -102,6 +102,14 @@ nope
 turn
 ```*/
 
+var oopsArray2 = ['turn', " " , 'down' , " " , 'for', " " , 'what'];
+
+
+for(var k = oopsArray2.length-1; k >= 0; k--) {
+	console.log(oopsArray2[k]);
+}
+
+	
 
 
 
